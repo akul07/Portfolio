@@ -34,3 +34,10 @@ You can view the live website here: [Akul's Portfolio](https://akul07.github.io/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Akul07/Portfolio.git
+
+### How to Use:
+1. Replace any placeholders (e.g., email) with your actual information.
+2. Add or remove sections based on your preferences or updates to your portfolio. 
+3. Commit this file as `README.md` to your repository. 
+
+This will provide a professional introduction to your portfolio repository!
